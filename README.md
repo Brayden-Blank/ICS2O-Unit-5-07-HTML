@@ -1,7 +1,7 @@
-# ICS2O-Unit-5-07-HTML
+# ICS2O-Unit5-07-HTML
 
-[![Mr Coxall's Super Linter](https://github.com/Brayden-Blank/ICS2O-Unit-5-07-HTML/actions/workflows/main.yml/badge.svg)](https://github.com/Brayden-Blank/ICS2O-Unit-5-07-HTML/actions/workflows/main.yml)
+[![GitHub's Super Linter](https://github.com/CristianoSellitto/ICS2O-Unit5-07-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/CristianoSellitto/ICS2O-Unit5-07-HTML/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/<Brayden-Blank>/<ICS2O-Unit-5-01-HTML>)](https://repl.it/github/<Brayden-Blank>/<ICS2O-Unit-5-01-HTML>)
+[![Run on Repl.it](https://repl.it/badge/github/CristianoSellitto/ICS2O-Unit5-07-HTML)](https://repl.it/github/CristianoSellitto/ICS2O-Unit5-07-HTML)
 
-This site can be found at: [https://brayden-blank.github.io/ICS2O-Unit-5-07-HTML/](https://brayden-blank.github.io/ICS2O-Unit-5-07-HTML/)
+This site can be found at: [https://CristianoSellitto.github.io/ICS2O-Unit5-07-HTML](https://CristianoSellitto.github.io/ICS2O-Unit5-07-HTML)
