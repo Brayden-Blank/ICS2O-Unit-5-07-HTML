@@ -7,8 +7,8 @@
  * Adds the integer the user chose added up to all the numbers from one to the integer
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Unit5-07-HTML/sw.js", {
-    scope: "/ICS2O-Unit5-07-HTML/",
+  navigator.serviceWorker.register("/ICS2O-Unit-5-07-HTML/sw.js", {
+    scope: "/ICS2O-Unit-5-07-HTML/",
   })
 }
 
